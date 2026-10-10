@@ -1,0 +1,6 @@
+{
+  "name": "On-Ground.ai Call Centre App",
+  "description": "AI-powered Call Centre Staff Application for offline retail and high-value sales, connecting customer conversations across call centre, store, and field with real-time SOP coaching and lead tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
