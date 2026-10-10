@@ -115,8 +115,8 @@ This application rebuilds the complete, production-grade **Call Centre Staff App
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR_REPO_URL>
-cd <REPO_DIRECTORY>
+git clone https://github.com/ShreeNikhithaCugati/Call-Centre-App.git
+cd Call-Centre-App
 
 # 2. Install dependencies
 npm install
